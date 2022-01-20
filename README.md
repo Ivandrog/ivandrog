@@ -1,7 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ivandro Graca</h1>
-<h3 align="center">software developer</h3>
-
+## <h1 align="left">Hi 👋, I'm Ivandro Graca</h1>
+<p> A passionate software and game developer </p>
 
 ## <b>Technical Skills</b>
 
