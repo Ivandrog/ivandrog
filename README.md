@@ -3,10 +3,7 @@
 <p> A passionate software developer </p>
 
 ## <b>Technical Skills</b>
-<container align="left">
-<p align="left">
 <b>Core Progamming Languages</b>
-</p>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -19,10 +16,9 @@
 </a>
 </p>
 
-<p align="center">
- <b>Front-End</b>
-</p>   
-<p align="center">
+
+<b>Front-End</b>   
+<p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
@@ -36,10 +32,8 @@
 </a>
 </p>
 
-<p align="right">
  <b>Back-End and DevOps</b>
-</p>
-<p align="right">
+<p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
 alt="spring" width="40" height="40"/>
@@ -57,7 +51,7 @@ alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 </p>
-</container>
+
 
  <b>Databases</b>
 <p align="left">
@@ -72,4 +66,4 @@ alt="spring" width="40" height="40"/>
 ## My GitHub Stats:
 <!--[![Ivandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandrog)](https://github.com/ivandrog/github-readme-stats) -->  
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrog)](https://github.com/ivandrog/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrog&theme=onedark&show_icons=true)](https://github.com/ivandrog/github-readme-stats)
