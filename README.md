@@ -3,9 +3,9 @@
 <h3 align="center">software developer</h3>
 
 
-## Skills
+## <b>Technical Skills</b>
 
-* Core Progamming Languages
+* <b>Core Progamming Languages</b>
 
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -19,7 +19,7 @@
 </a>
 </p>
 
- * Front-End
+ * <b>Front-End</b>
    
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -35,7 +35,7 @@
 </a>
 </p>
 
-* Back-End and DevOps
+* <b>Back-End and DevOps</b>
 
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -56,7 +56,7 @@ alt="spring" width="40" height="40"/>
 </a>
 </p>
 
- * Databases
+ * <b>Databases</b>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -64,3 +64,8 @@ alt="spring" width="40" height="40"/>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <p>
+ 
+## My GitHub Stats:
+<!--[![Ivandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandrog)](https://github.com/ivandrog/github-readme-stats) -->  
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrog)](https://github.com/ivandrog/github-readme-stats)
