@@ -68,3 +68,8 @@ alt="spring" width="40" height="40"/>
 <!--[![Ivandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandrog)](https://github.com/ivandrog/github-readme-stats) -->  
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandrog&theme=onedark&show_icons=true)](https://github.com/ivandrog/github-readme-stats)
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivandro-gra%c3%a7a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivandro-gra%c3%a7a/" height="25" width="25" /></a>
+</p>
