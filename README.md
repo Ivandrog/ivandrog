@@ -3,7 +3,7 @@
 <p> A passionate software developer </p>
 
 ## <b>Technical Skills</b>
-<b>Core Progamming Languages</b>
+<i>Core Progamming Languages</i>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -16,8 +16,7 @@
 </a>
 </p>
 
-
-<b>Front-End</b>   
+<i>Front-End</i>   
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -32,7 +31,9 @@
 </a>
 </p>
 
- <b>Back-End and DevOps</b>
+
+
+ <i>Back-End and DevOps</i>
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
@@ -53,7 +54,7 @@ alt="spring" width="40" height="40"/>
 </p>
 
 
- <b>Databases</b>
+ <i>Databases</i>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
