@@ -3,9 +3,10 @@
 <p> A passionate software developer </p>
 
 ## <b>Technical Skills</b>
-
-* <b>Core Progamming Languages</b>
-
+<container align="left">
+<p align="left">
+<b>Core Progamming Languages</b>
+</p>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -18,9 +19,10 @@
 </a>
 </p>
 
- * <b>Front-End</b>
-   
-<p align="left">
+<p align="center">
+ <b>Front-End</b>
+</p>   
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
@@ -34,9 +36,10 @@
 </a>
 </p>
 
-* <b>Back-End and DevOps</b>
-
-<p align="left">
+<p align="right">
+ <b>Back-End and DevOps</b>
+</p>
+<p align="right">
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
 alt="spring" width="40" height="40"/>
@@ -54,16 +57,18 @@ alt="spring" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 </p>
+</container>
 
- * <b>Databases</b>
+ <b>Databases</b>
 <p align="left">
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
  </a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<p>
- 
+</p>
+
+
 ## My GitHub Stats:
 <!--[![Ivandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandrog)](https://github.com/ivandrog/github-readme-stats) -->  
    
