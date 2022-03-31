@@ -38,7 +38,3 @@ alt="spring" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"  height="40"/> 
  </a>
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/ivandro-gra%c3%a7a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivandro-gra%c3%a7a/" height="25" width="25" /></a>
-</p>
